@@ -1,0 +1,217 @@
+name;unit;threshold;measured;location;summary;wiki
+Escherichia coli (WUH);/100ml;0.0;0.0;Wuhlheide (WUH);;
+Cyanid ges. (WUH);mg/l;0.05;0.003;Wuhlheide (WUH);;
+Kontrollwert NO3/NO2 (WUH);mg/l;1.0;0.09;Wuhlheide (WUH);;
+Kontrollwert Calcitlösekapazität (WUH);mgCaCO3/l;5.0;-13.9;Wuhlheide (WUH);;
+Säurekapazität KS 4,3 (WUH);mmol/l;;4.79;Wuhlheide (WUH);;
+Basekapazität  KB 8,2 (WUH);mmol/l;;0.49;Wuhlheide (WUH);;
+Clostridium perfringens (WUH);/100ml;0.0;0.0;Wuhlheide (WUH);;
+Coliforme Bakterien (WUH);/100ml;0.0;0.0;Wuhlheide (WUH);;
+Koloniezahl 22°C (WUH);/ml;100.0;0.0;Wuhlheide (WUH);;
+Koloniezahl 36°C (WUH);/ml;100.0;0.0;Wuhlheide (WUH);;
+Gaba Lactam (WUH);µg/l;1.0;0.01;Wuhlheide (WUH);;
+Enterokokken (WUH);/100ml;0.0;0.0;Wuhlheide (WUH);;
+Benzol (WUH);mg/l;0.001;0.0001;Wuhlheide (WUH);;
+Bor (WUH);mg/l;1.0;0.13;Wuhlheide (WUH);;
+Chrom (WUH);mg/l;0.05;0.001;Wuhlheide (WUH);;
+1,2-Dichlorethan (WUH);mg/l;0.003;0.0005;Wuhlheide (WUH);;
+Fluorid (WUH);mg/l;1.5;0.28;Wuhlheide (WUH);"Fluoride () is an inorganic, monatomic anion with the chemical formula F− (also written [F]−), whose salts are typically white or colorless. Fluoride salts typically have distinctive bitter tastes, and are odorless. Its salts and minerals are important chemical reagents and industrial chemicals, mainly used in the production of hydrogen fluoride for fluorocarbons. Fluoride is classified as a weak base since it only partially associates in solution, but concentrated fluoride is corrosive and can attack the skin.
+Fluoride is the simplest fluorine anion. In terms of charge and size, the fluoride ion resembles the hydroxide ion.  Fluoride ions occur on earth in several minerals, particularly fluorite, but are present only in trace quantities in bodies of water in nature.";https://en.wikipedia.org/wiki/Fluoride
+Nitrat (WUH);mg/l;50.0;4.21;Wuhlheide (WUH);;
+Pflanzenschutzmittel-Wirkstoffe und Biozidprodukt-Wirkstoffe insgesamt (WUH);mg/l;0.0005;0.00014;Wuhlheide (WUH);;
+a-HCH (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+b-HCH (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+g-HCH (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+d-HCH (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+e-HCH (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+o,p-DDE (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+p,p-DDE (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+o,p-DDD (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+p,p-DDD (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+o,p-DDT (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);"Dichlorodiphenyltrichloroethane, commonly known as DDT, is a colorless, tasteless, and almost odorless crystalline chemical compound, an organochlorine, originally developed as an insecticide, and ultimately becoming infamous for its environmental impacts. It was first synthesized in 1874. DDT's insecticidal action was discovered by the Swiss chemist Paul Hermann Müller in 1939. DDT was used in the second half of World War II to control malaria and typhus among civilians and troops. Müller was awarded the Nobel Prize in Physiology or Medicine ""for his discovery of the high efficiency of DDT as a contact poison against several arthropods"" in 1948.By October 1945, DDT was available for public sale in the United States. Although it was promoted by government and industry for use as an agricultural and household pesticide, there were also concerns about its use from the beginning. Opposition to DDT was focused by the 1962 publication of Rachel Carson's book Silent Spring. It cataloged environmental impacts that coincided with widespread use of DDT in agriculture in the United States, and it questioned the logic of broadcasting potentially dangerous chemicals into the environment with little prior investigation of their environmental and health effects. The book claimed that DDT and other pesticides had been shown to cause cancer and that their agricultural use was a threat to wildlife, particularly birds. Its publication was a seminal event for the environmental movement and resulted in a large public outcry that eventually led, in 1972, to a ban on DDT's agricultural use in the United States. A worldwide ban on agricultural use was formalized under the Stockholm Convention on Persistent Organic Pollutants, but its limited and still-controversial use in disease vector control continues, because of its effectiveness in reducing malarial infections, balanced by environmental and other health concerns.
+Along with the passage of the Endangered Species Act, the United States ban on DDT is a major factor in the comeback of the bald eagle (the national bird of the United States) and the peregrine falcon from near-extinction in the contiguous United States.";https://en.wikipedia.org/wiki/DDT
+p,p-DDT (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);"Dichlorodiphenyltrichloroethane, commonly known as DDT, is a colorless, tasteless, and almost odorless crystalline chemical compound, an organochlorine, originally developed as an insecticide, and ultimately becoming infamous for its environmental impacts. It was first synthesized in 1874. DDT's insecticidal action was discovered by the Swiss chemist Paul Hermann Müller in 1939. DDT was used in the second half of World War II to control malaria and typhus among civilians and troops. Müller was awarded the Nobel Prize in Physiology or Medicine ""for his discovery of the high efficiency of DDT as a contact poison against several arthropods"" in 1948.By October 1945, DDT was available for public sale in the United States. Although it was promoted by government and industry for use as an agricultural and household pesticide, there were also concerns about its use from the beginning. Opposition to DDT was focused by the 1962 publication of Rachel Carson's book Silent Spring. It cataloged environmental impacts that coincided with widespread use of DDT in agriculture in the United States, and it questioned the logic of broadcasting potentially dangerous chemicals into the environment with little prior investigation of their environmental and health effects. The book claimed that DDT and other pesticides had been shown to cause cancer and that their agricultural use was a threat to wildlife, particularly birds. Its publication was a seminal event for the environmental movement and resulted in a large public outcry that eventually led, in 1972, to a ban on DDT's agricultural use in the United States. A worldwide ban on agricultural use was formalized under the Stockholm Convention on Persistent Organic Pollutants, but its limited and still-controversial use in disease vector control continues, because of its effectiveness in reducing malarial infections, balanced by environmental and other health concerns.
+Along with the passage of the Endangered Species Act, the United States ban on DDT is a major factor in the comeback of the bald eagle (the national bird of the United States) and the peregrine falcon from near-extinction in the contiguous United States.";https://en.wikipedia.org/wiki/DDT
+Aldrin (WUH);mg/l;2.9999999999999997e-05;5e-06;Wuhlheide (WUH);"Aldrin is an organochlorine insecticide that was widely used until the 1990s, when it was banned in most countries. It is a colourless solid. Before the ban, it was heavily used as a pesticide to treat seed and soil.  Aldrin and related ""cyclodiene"" pesticides (a term for pesticides derived from Hexachlorocyclopentadiene) became notorious as persistent organic pollutants.";https://en.wikipedia.org/wiki/Aldrin
+Isodrin (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+Mirex (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+Dieldrin (WUH);mg/l;2.9999999999999997e-05;5e-06;Wuhlheide (WUH);;
+Endrin (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+Heptachlor (WUH);mg/l;2.9999999999999997e-05;5e-06;Wuhlheide (WUH);;
+cis-Heptachlorepoxid (WUH);mg/l;2.9999999999999997e-05;5e-06;Wuhlheide (WUH);;
+trans-Heptachlorepoxid (WUH);mg/l;2.9999999999999997e-05;5e-06;Wuhlheide (WUH);;
+alpha-Endosulfan (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+beta-Endosulfan (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+alpha-Chlordan (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+gamma-Chlordan (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+oxi-Chlordan (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+Methoxychlor (WUH);mg/l;0.0001;1e-05;Wuhlheide (WUH);;
+2,6-Dichlorbenzamid (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Atrazin (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Chloridazon (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);"Chloridazon-catechol dioxygenase (EC 1.13.11.36) is an enzyme that catalyzes the chemical reaction
+
+5-amino-4-chloro-2-(2,3-dihydroxyphenyl)-3(2H)-pyridazinone + O2 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   5-amino-4-chloro-2-(2-hydroxymuconoyl)-3(2H)-pyridazinoneThus, the two substrates of this enzyme are 5-amino-4-chloro-2-(2,3-dihydroxyphenyl)-3(2H)-pyridazinone and oxygen, whereas its product is 5-amino-4-chloro-2-(2-hydroxymuconoyl)-3(2H)-pyridazinone.
+
+This enzyme belongs to the family of oxidoreductases, specifically those acting on single donors with O2 as oxidant and incorporation of two atoms of oxygen into the substrate (oxygenases). The oxygen incorporated need not be derived from O2.  The systematic name of this enzyme class is 5-amino-4-chloro-2-(2,3-dihydroxyphenyl)-3(2H)-pyridazinone 1,2-oxidoreductase (decyclizing). It employs one cofactor, iron.";https://de.wikipedia.org/wiki/Chloridazon
+Chlortoluron (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Desethylatrazin (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Desethylterbuthylazin (WUH);mg/l;0.0001;3e-05;Wuhlheide (WUH);;
+Desisopropylatrazin (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Diuron (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Ethofumesat (WUH);mg/l;0.0001;4e-05;Wuhlheide (WUH);;
+Isoproturon (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Metamitron (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Metazachlor (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Methyldesphenylchloridazon (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Metolachlor (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Metribuzin (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Simazin (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Terbuthylazin (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Mecoprop (WUH);mg/l;0.0001;2e-05;Wuhlheide (WUH);;
+MCPA (WUH);mg/l;0.0001;2e-05;Wuhlheide (WUH);;
+Dichlorprop (WUH);mg/l;0.0001;2e-05;Wuhlheide (WUH);;
+2,4-D (WUH);mg/l;0.0001;2e-05;Wuhlheide (WUH);;
+p,p-DDA (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+o,p-DDA (WUH);mg/l;0.0001;2.5e-05;Wuhlheide (WUH);;
+Bentazon (WUH);mg/l;0.0001;2e-05;Wuhlheide (WUH);;
+Glyphosat (WUH);mg/l;0.0001;2e-05;Wuhlheide (WUH);;
+Quecksilber (WUH);mg/l;0.001;0.0001;Wuhlheide (WUH);"Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum ( hy-DRAR-jər-əm). A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.
+Mercury occurs in deposits throughout the world mostly as cinnabar (mercuric sulfide). The red pigment vermilion is obtained by grinding natural cinnabar or synthetic mercuric sulfide.
+Mercury is used in thermometers, barometers, manometers, sphygmomanometers, float valves, mercury switches, mercury relays, fluorescent lamps and other devices, though concerns about the element's toxicity have led to mercury thermometers and sphygmomanometers being largely phased out in clinical environments in favor of alternatives such as alcohol- or galinstan-filled glass thermometers and thermistor- or infrared-based electronic instruments.  Likewise, mechanical pressure gauges and electronic strain gauge sensors have replaced mercury sphygmomanometers.
+Mercury remains in use in scientific research applications and in amalgam for dental restoration in some locales. It is also used in fluorescent lighting. Electricity passed through mercury vapor in a fluorescent lamp produces short-wave ultraviolet light, which then causes the phosphor in the tube to fluoresce, making visible light.
+Mercury poisoning can result from exposure to water-soluble forms of mercury (such as mercuric chloride or methylmercury), by inhalation of mercury vapor, or by ingesting any form of mercury.";https://en.wikipedia.org/wiki/Mercury_(element)
+Selen (WUH);mg/l;0.01;0.001;Wuhlheide (WUH);;
+Uran (WUH);mg/l;0.01;0.0003;Wuhlheide (WUH);;
+Antimon (WUH);mg/l;0.005;0.0005;Wuhlheide (WUH);;
+Arsen (WUH);mg/l;0.01;0.0003;Wuhlheide (WUH);"Arsenic is a chemical element with symbol As and atomic number 33. Arsenic occurs in many minerals, usually in combination with sulfur and metals, but also as a pure elemental crystal. Arsenic is a metalloid. It has various allotropes, but only the gray form, which has a metallic appearance, is important to industry.
+The primary use of arsenic is in alloys of lead (for example, in car batteries and ammunition). Arsenic is a common n-type dopant in semiconductor electronic devices, and the optoelectronic compound gallium arsenide is the second most commonly used semiconductor after doped silicon. Arsenic and its compounds, especially the trioxide, are used in the production of pesticides, treated wood products, herbicides, and insecticides. These applications are declining due to the toxicity of arsenic and its compounds.A few species of bacteria are able to use arsenic compounds as respiratory metabolites. Trace quantities of arsenic are an essential dietary element in rats, hamsters, goats, chickens, and presumably other species. A role in human metabolism is not known. However, arsenic poisoning occurs in multicellular life if quantities are larger than needed. Arsenic contamination of groundwater is a problem that affects millions of people across the world.
+The United States' Environmental Protection Agency states that all forms of arsenic are a serious risk to human health. The United States' Agency for Toxic Substances and Disease Registry ranked arsenic as number 1 in its 2001 Priority List of Hazardous Substances at Superfund sites. Arsenic is classified as a Group-A carcinogen.";https://en.wikipedia.org/wiki/Arsenic
+Benzo[a]pyren (WUH);mg/l;1e-05;5e-06;Wuhlheide (WUH);Benzo[a]pyrene is a polycyclic aromatic hydrocarbon and the result of incomplete combustion of organic matter at temperatures between 300 °C (572 °F) and 600 °C (1,112 °F). The ubiquitous compound can be found in coal tar, tobacco smoke and many foods, especially grilled meats. The substance with the formula C20H12 is one of the benzopyrenes, formed by a benzene ring fused to pyrene. Its diol epoxide metabolites (more commonly known as BPDE) react and bind to DNA, resulting in mutations and eventually cancer. It is listed as a Group 1 carcinogen by the IARC.  In the 18th century a scrotal cancer of chimney sweepers, the chimney sweeps' carcinoma, was already known to be connected to soot.;https://en.wikipedia.org/wiki/Benzo(a)pyrene
+Blei (WUH);mg/l;0.01;0.0005;Wuhlheide (WUH);"Lead is a chemical element with symbol Pb (from the Latin plumbum) and atomic number 82. It is a heavy metal that is denser than most common materials. Lead is soft and malleable, and also has a relatively low melting point. When freshly cut, lead is silvery with a hint of blue; it tarnishes to a dull gray color when exposed to air. Lead has the highest atomic number of any stable element and three of its isotopes each conclude a major decay chain of heavier elements.
+Lead is a relatively unreactive post-transition metal. Its weak metallic character is illustrated by its amphoteric nature; lead and lead oxides react with acids and bases, and it tends to form covalent bonds. Compounds of lead are usually found in the +2 oxidation state rather than the +4 state common with lighter members of the carbon group. Exceptions are mostly limited to organolead compounds. Like the lighter members of the group, lead tends to bond with itself; it can form chains, rings, and polyhedral structures.
+Lead is easily extracted from its ores; prehistoric people in Western Asia knew of it. Galena, a principal ore of lead, often bears silver, interest in which helped initiate widespread extraction and use of lead in ancient Rome. Lead production declined after the fall of Rome and did not reach comparable levels until the Industrial Revolution. In 2014, the annual global production of lead was about ten million tonnes, over half of which was from recycling. Lead's high density, low melting point, ductility and relative inertness to oxidation make it useful. These properties, combined with its relative abundance and low cost, resulted in its extensive use in construction, plumbing, batteries, bullets and shot, weights, solders, pewters, fusible alloys, white paints, leaded gasoline, and radiation shielding.
+In the late 19th century, lead's toxicity was recognized, and its use has since been phased out of many applications. Lead is a toxin that accumulates in soft tissues and bones, it acts as a neurotoxin damaging the nervous system and interfering with the function of biological enzymes. It is particularly problematic in children: even if blood levels are promptly normalized with treatment, neurological disorders, such as brain damage and behavioral problems, may result.";https://en.wikipedia.org/wiki/Lead
+Cadmium (WUH);mg/l;0.003;0.0005;Wuhlheide (WUH);;
+Kupfer (WUH);mg/l;2.0;0.005;Wuhlheide (WUH);;
+Nickel (WUH);mg/l;0.02;0.003;Wuhlheide (WUH);;
+Nitrit (WUH);mg/l;0.1;0.03;Wuhlheide (WUH);;
+Trihalogenmethane (WUH);mg/l;0.01;0.0005;Wuhlheide (WUH);;
+Vinylchlorid (WUH);mg/l;0.0005;0.0001;Wuhlheide (WUH);;
+Aluminium (WUH);mg/l;0.2;0.01;Wuhlheide (WUH);"Aluminium or aluminum is a chemical element with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic and ductile metal in the boron group. By mass, aluminium makes up about 8% of the  Earth's crust; it is the third most abundant element after oxygen and silicon and the most abundant metal in the crust, though it is less common in the mantle below. The chief ore of aluminium is bauxite. Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing environments. Instead, it is found combined in over 270 different minerals.Aluminium is remarkable for its low density and its ability to resist corrosion through the phenomenon of passivation. Aluminium and its alloys are vital to the aerospace industry and important in transportation and building industries, such as building facades and window frames. The oxides and sulfates are the most useful compounds of aluminium.Despite its prevalence in the environment, no known form of life uses aluminium salts metabolically, but aluminium is well tolerated by plants and animals. Because of these salts' abundance, the potential for a biological role for them is of continuing interest, and studies continue.";https://en.wikipedia.org/wiki/Aluminium
+Färbung (WUH);1/m;0.5;0.3;Wuhlheide (WUH);;
+Natrium (WUH);mg/l;200.0;34.0;Wuhlheide (WUH);;
+Sulfat (WUH);mg/l;250.0;176.0;Wuhlheide (WUH);;
+freie Kohlensäure (WUH);mg/l;;21.6;Wuhlheide (WUH);;
+Kieselsäure (SiO2) (WUH);mg/l;;18.0;Wuhlheide (WUH);;
+SAK 254nm (WUH);mg/l;;10.6;Wuhlheide (WUH);;
+1,1,1-Trichlorethan (WUH);µg/l;3.0;0.5;Wuhlheide (WUH);;
+Toluen (WUH);µg/l;0.3;0.5;Wuhlheide (WUH);;
+1,2,3-Trichlorbenzen (WUH);µg/l;0.1;0.1;Wuhlheide (WUH);;
+1,2,4-Trichlorbenzen (WUH);µg/l;0.1;0.1;Wuhlheide (WUH);;
+1,3,5-Trichlorbenzen (WUH);µg/l;0.1;0.1;Wuhlheide (WUH);;
+1,2,3,5-Tetrachlorbenzen (WUH);µg/l;0.1;0.01;Wuhlheide (WUH);;
+1,2,3,4-Tetrachlorbenzen (WUH);µg/l;0.1;0.01;Wuhlheide (WUH);;
+Pentachlorbenzen (WUH);µg/l;0.1;0.01;Wuhlheide (WUH);;
+Hexachlorbenzen (WUH);µg/l;0.1;0.01;Wuhlheide (WUH);;
+Pentachloranisol (WUH);µg/l;0.1;0.01;Wuhlheide (WUH);;
+EDTA (WUH);µg/l;10.0;5.3;Wuhlheide (WUH);;
+Benzotriazol (WUH);µg/l;3.0;0.05;Wuhlheide (WUH);;
+Tolyltriazole (WUH);µg/l;3.0;0.025;Wuhlheide (WUH);;
+Ammonium (WUH);mg/l;0.5;0.05;Wuhlheide (WUH);;
+Eisen (WUH);mg/l;0.2;0.03;Wuhlheide (WUH);;
+Mangan (WUH);mg/l;0.05;0.005;Wuhlheide (WUH);;
+Trübung (WUH);NTU;1.0;0.2;Wuhlheide (WUH);;
+Tris-(chlorisopropyl)phosphat (WUH);µg/l;1.0;0.1;Wuhlheide (WUH);;
+MTBE (WUH);µg/l;1.0;0.05;Wuhlheide (WUH);;
+PFOA (WUH);µg/l;0.3;0.01;Wuhlheide (WUH);;
+PFOS (WUH);µg/l;0.3;0.05;Wuhlheide (WUH);;
+Atenolol (WUH);µg/l;0.1;0.03;Wuhlheide (WUH);;
+Diclofenac (WUH);µg/l;0.3;0.025;Wuhlheide (WUH);;
+Phenazon* (WUH);µg/l;0.3;0.03;Wuhlheide (WUH);;
+Propyphenazon* (WUH);µg/l;0.3;0.02;Wuhlheide (WUH);;
+Carbamazepin (WUH);µg/l;0.3;0.025;Wuhlheide (WUH);;
+AMDOPH (WUH);µg/l;3.0;0.02;Wuhlheide (WUH);;
+AMPH (WUH);µg/l;3.0;0.04;Wuhlheide (WUH);;
+DP (WUH);µg/l;3.0;0.05;Wuhlheide (WUH);;
+Primidon (WUH);µg/l;3.0;0.03;Wuhlheide (WUH);;
+Phenobarbital (WUH);µg/l;0.3;0.03;Wuhlheide (WUH);;
+Sulfamethoxazol (WUH);µg/l;0.1;0.02;Wuhlheide (WUH);;
+Metformin (WUH);µg/l;1.0;0.02;Wuhlheide (WUH);;
+Gabapentin (WUH);µg/l;1.0;0.05;Wuhlheide (WUH);;
+Valsartansäure (WUH);µg/l;1.5;0.01;Wuhlheide (WUH);;
+Valsartan (WUH);µg/l;0.3;0.03;Wuhlheide (WUH);;
+Iopamidol (WUH);µg/l;1.0;0.02;Wuhlheide (WUH);;
+Iomeprol (WUH);µg/l;1.0;0.02;Wuhlheide (WUH);;
+Iopromid (WUH);µg/l;1.0;0.02;Wuhlheide (WUH);;
+Amidotrizoesäure (WUH);µg/l;1.0;0.02;Wuhlheide (WUH);;
+AMPA (WUH);mg/l;;0.0001;Wuhlheide (WUH);;
+Tetrachlorethen (WUH);mg/l;;0.0001;Wuhlheide (WUH);;
+Trichlorethen (WUH);mg/l;;0.0001;Wuhlheide (WUH);;
+Benzo[b]fluoranthen (WUH);mg/l;;1e-05;Wuhlheide (WUH);;
+Benzo[k]fluoranthen (WUH);mg/l;;1e-05;Wuhlheide (WUH);;
+Benzo[g,h,i]perylen (WUH);mg/l;;1e-05;Wuhlheide (WUH);;
+Indeno[1,2,3-c,d]pyren (WUH);mg/l;;1e-05;Wuhlheide (WUH);;
+Trichlormethan (WUH);mg/l;;0.0005;Wuhlheide (WUH);;
+Bromdichlormethan (WUH);mg/l;;0.0005;Wuhlheide (WUH);;
+Dibromchlormethan (WUH);mg/l;;0.0005;Wuhlheide (WUH);;
+Tribrommethan (WUH);mg/l;;0.0005;Wuhlheide (WUH);;
+TOC (WUH);mg/l;;4.5;Wuhlheide (WUH);;
+Temperatur (WUH);°C;;11.3;Wuhlheide (WUH);;
+Sauerstoff (WUH);mg/l;;9.6;Wuhlheide (WUH);;
+Sättigungs-pH (WUH);-;;7.2;Wuhlheide (WUH);;
+Karbonathärte (WUH);°dH;;13.3;Wuhlheide (WUH);;
+Gesamthärte (WUH);°dH;;22.9;Wuhlheide (WUH);;
+Calcium (WUH);mg/l;;138.0;Wuhlheide (WUH);;
+Magnesium (WUH);mg/l;;15.2;Wuhlheide (WUH);;
+Kalium (WUH);mg/l;;8.1;Wuhlheide (WUH);;
+AOX (WUH);µg/l;;10.0;Wuhlheide (WUH);;
+Zink (WUH);µg/l;;10.0;Wuhlheide (WUH);;
+Dichlormethan (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+Tetrachlormethan (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+trans-Dichlorethen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+cis-Dichlorethen (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+Hexachlorbutadien (WUH);µg/l;;0.01;Wuhlheide (WUH);;
+1,2-Dichlorpropan (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+Ethylbenzen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+m,p-Xylen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+o-Xylen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+Cumen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+Chlorbenzen (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+1,3-Dichlorbenzen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+1,4-Dichlorbenzen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+1,2-Dichlorbenzen (WUH);µg/l;;0.5;Wuhlheide (WUH);;
+NTA (WUH);µg/l;;2.0;Wuhlheide (WUH);;
+Phenylsulfonylsarcosin (WUH);µg/l;;0.02;Wuhlheide (WUH);;
+Tributylphosphat (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+Triphenylphosphat (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+Tris-(2-chlorethyl)phosphat (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+ETBE (WUH);µg/l;;0.03;Wuhlheide (WUH);;
+TBA (WUH);µg/l;;1.0;Wuhlheide (WUH);;
+Clofibrinsäure (WUH);µg/l;;0.025;Wuhlheide (WUH);;
+Bezafibrat (WUH);µg/l;;0.01;Wuhlheide (WUH);;
+Carbamazepin-10,11-diol (WUH);µg/l;;0.03;Wuhlheide (WUH);;
+Acridin-9-carbonsäure (WUH);µg/l;;0.05;Wuhlheide (WUH);;
+Dimethylaminophenazon (WUH);µg/l;;0.02;Wuhlheide (WUH);;
+AAA (WUH);µg/l;;0.02;Wuhlheide (WUH);;
+N-Acetyl-sulfamethoxazol (WUH);µg/l;;0.02;Wuhlheide (WUH);;
+FAA (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+Koffein (WUH);µg/l;;0.1;Wuhlheide (WUH);;
+Metoprolol (WUH);µg/l;;0.025;Wuhlheide (WUH);;
+Phenylethylmalonamid (WUH);µg/l;;0.03;Wuhlheide (WUH);;
+Pregabalin (WUH);µg/l;;0.01;Wuhlheide (WUH);;
+Oxipurinol (WUH);µg/l;;0.05;Wuhlheide (WUH);;
+Candesartan (WUH);µg/l;;0.01;Wuhlheide (WUH);;
+Olmesartan (WUH);µg/l;;0.01;Wuhlheide (WUH);;
+Irbesartan (WUH);µg/l;;0.02;Wuhlheide (WUH);;
+Losartan (WUH);µg/l;;0.03;Wuhlheide (WUH);;
+DEET (WUH);µg/l;;0.03;Wuhlheide (WUH);;
+ph-wert (WUH);-;8.5;7.4;Wuhlheide (WUH);;
+Chlorid (WUH);mg/l;250.0;51.0;Wuhlheide (WUH);"The chloride ion  is the anion (negatively charged ion) Cl−. It is formed when the element chlorine (a halogen) gains an electron or when a compound such as hydrogen chloride is dissolved in water or other polar solvents. Chloride salts such as sodium chloride are often very soluble in water. It is an essential electrolyte located in all body fluids responsible for maintaining acid/base balance, transmitting nerve impulses and regulating fluid in and out of cells. Less frequently, the word chloride may also form part of the ""common"" name of chemical compounds in which one or more chlorine atoms are covalently bonded.  For example, methyl chloride, with the standard name chloromethane (see IUPAC books) is an organic compound with a covalent C−Cl bond in which the chlorine is not an anion.";https://en.wikipedia.org/wiki/Chloride

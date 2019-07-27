@@ -1,0 +1,217 @@
+name;unit;threshold;measured;location;summary;wiki
+Escherichia coli (TEG);/100ml;0.0;0.0;Tegel (TEG);;
+Cyanid ges. (TEG);mg/l;0.05;0.003;Tegel (TEG);;
+Kontrollwert NO3/NO2 (TEG);mg/l;1.0;0.08;Tegel (TEG);;
+Kontrollwert Calcitlösekapazität (TEG);mgCaCO3/l;5.0;-3.9;Tegel (TEG);;
+Säurekapazität KS 4,3 (TEG);mmol/l;;3.61;Tegel (TEG);;
+Basekapazität  KB 8,2 (TEG);mmol/l;;0.26;Tegel (TEG);;
+Clostridium perfringens (TEG);/100ml;0.0;0.0;Tegel (TEG);;
+Coliforme Bakterien (TEG);/100ml;0.0;0.0;Tegel (TEG);;
+Koloniezahl 22°C (TEG);/ml;100.0;0.0;Tegel (TEG);;
+Koloniezahl 36°C (TEG);/ml;100.0;0.0;Tegel (TEG);;
+Gaba Lactam (TEG);µg/l;1.0;0.1;Tegel (TEG);;
+Enterokokken (TEG);/100ml;0.0;0.0;Tegel (TEG);;
+Benzol (TEG);mg/l;0.001;0.0001;Tegel (TEG);;
+Bor (TEG);mg/l;1.0;0.1;Tegel (TEG);;
+Chrom (TEG);mg/l;0.05;0.001;Tegel (TEG);;
+1,2-Dichlorethan (TEG);mg/l;0.003;0.0005;Tegel (TEG);;
+Fluorid (TEG);mg/l;1.5;0.23;Tegel (TEG);"Fluoride () is an inorganic, monatomic anion with the chemical formula F− (also written [F]−), whose salts are typically white or colorless. Fluoride salts typically have distinctive bitter tastes, and are odorless. Its salts and minerals are important chemical reagents and industrial chemicals, mainly used in the production of hydrogen fluoride for fluorocarbons. Fluoride is classified as a weak base since it only partially associates in solution, but concentrated fluoride is corrosive and can attack the skin.
+Fluoride is the simplest fluorine anion. In terms of charge and size, the fluoride ion resembles the hydroxide ion.  Fluoride ions occur on earth in several minerals, particularly fluorite, but are present only in trace quantities in bodies of water in nature.";https://en.wikipedia.org/wiki/Fluoride
+Nitrat (TEG);mg/l;50.0;3.54;Tegel (TEG);;
+Pflanzenschutzmittel-Wirkstoffe und Biozidprodukt-Wirkstoffe insgesamt (TEG);mg/l;0.0005;0.00017;Tegel (TEG);;
+a-HCH (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+b-HCH (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+g-HCH (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+d-HCH (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+e-HCH (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+o,p-DDE (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+p,p-DDE (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+o,p-DDD (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+p,p-DDD (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+o,p-DDT (TEG);mg/l;0.0001;1e-05;Tegel (TEG);"Dichlorodiphenyltrichloroethane, commonly known as DDT, is a colorless, tasteless, and almost odorless crystalline chemical compound, an organochlorine, originally developed as an insecticide, and ultimately becoming infamous for its environmental impacts. It was first synthesized in 1874. DDT's insecticidal action was discovered by the Swiss chemist Paul Hermann Müller in 1939. DDT was used in the second half of World War II to control malaria and typhus among civilians and troops. Müller was awarded the Nobel Prize in Physiology or Medicine ""for his discovery of the high efficiency of DDT as a contact poison against several arthropods"" in 1948.By October 1945, DDT was available for public sale in the United States. Although it was promoted by government and industry for use as an agricultural and household pesticide, there were also concerns about its use from the beginning. Opposition to DDT was focused by the 1962 publication of Rachel Carson's book Silent Spring. It cataloged environmental impacts that coincided with widespread use of DDT in agriculture in the United States, and it questioned the logic of broadcasting potentially dangerous chemicals into the environment with little prior investigation of their environmental and health effects. The book claimed that DDT and other pesticides had been shown to cause cancer and that their agricultural use was a threat to wildlife, particularly birds. Its publication was a seminal event for the environmental movement and resulted in a large public outcry that eventually led, in 1972, to a ban on DDT's agricultural use in the United States. A worldwide ban on agricultural use was formalized under the Stockholm Convention on Persistent Organic Pollutants, but its limited and still-controversial use in disease vector control continues, because of its effectiveness in reducing malarial infections, balanced by environmental and other health concerns.
+Along with the passage of the Endangered Species Act, the United States ban on DDT is a major factor in the comeback of the bald eagle (the national bird of the United States) and the peregrine falcon from near-extinction in the contiguous United States.";https://en.wikipedia.org/wiki/DDT
+p,p-DDT (TEG);mg/l;0.0001;1e-05;Tegel (TEG);"Dichlorodiphenyltrichloroethane, commonly known as DDT, is a colorless, tasteless, and almost odorless crystalline chemical compound, an organochlorine, originally developed as an insecticide, and ultimately becoming infamous for its environmental impacts. It was first synthesized in 1874. DDT's insecticidal action was discovered by the Swiss chemist Paul Hermann Müller in 1939. DDT was used in the second half of World War II to control malaria and typhus among civilians and troops. Müller was awarded the Nobel Prize in Physiology or Medicine ""for his discovery of the high efficiency of DDT as a contact poison against several arthropods"" in 1948.By October 1945, DDT was available for public sale in the United States. Although it was promoted by government and industry for use as an agricultural and household pesticide, there were also concerns about its use from the beginning. Opposition to DDT was focused by the 1962 publication of Rachel Carson's book Silent Spring. It cataloged environmental impacts that coincided with widespread use of DDT in agriculture in the United States, and it questioned the logic of broadcasting potentially dangerous chemicals into the environment with little prior investigation of their environmental and health effects. The book claimed that DDT and other pesticides had been shown to cause cancer and that their agricultural use was a threat to wildlife, particularly birds. Its publication was a seminal event for the environmental movement and resulted in a large public outcry that eventually led, in 1972, to a ban on DDT's agricultural use in the United States. A worldwide ban on agricultural use was formalized under the Stockholm Convention on Persistent Organic Pollutants, but its limited and still-controversial use in disease vector control continues, because of its effectiveness in reducing malarial infections, balanced by environmental and other health concerns.
+Along with the passage of the Endangered Species Act, the United States ban on DDT is a major factor in the comeback of the bald eagle (the national bird of the United States) and the peregrine falcon from near-extinction in the contiguous United States.";https://en.wikipedia.org/wiki/DDT
+Aldrin (TEG);mg/l;2.9999999999999997e-05;5e-06;Tegel (TEG);"Aldrin is an organochlorine insecticide that was widely used until the 1990s, when it was banned in most countries. It is a colourless solid. Before the ban, it was heavily used as a pesticide to treat seed and soil.  Aldrin and related ""cyclodiene"" pesticides (a term for pesticides derived from Hexachlorocyclopentadiene) became notorious as persistent organic pollutants.";https://en.wikipedia.org/wiki/Aldrin
+Isodrin (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+Mirex (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+Dieldrin (TEG);mg/l;2.9999999999999997e-05;5e-06;Tegel (TEG);;
+Endrin (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+Heptachlor (TEG);mg/l;2.9999999999999997e-05;5e-06;Tegel (TEG);;
+cis-Heptachlorepoxid (TEG);mg/l;2.9999999999999997e-05;5e-06;Tegel (TEG);;
+trans-Heptachlorepoxid (TEG);mg/l;2.9999999999999997e-05;5e-06;Tegel (TEG);;
+alpha-Endosulfan (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+beta-Endosulfan (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+alpha-Chlordan (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+gamma-Chlordan (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+oxi-Chlordan (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+Methoxychlor (TEG);mg/l;0.0001;1e-05;Tegel (TEG);;
+2,6-Dichlorbenzamid (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Atrazin (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Chloridazon (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);"Chloridazon-catechol dioxygenase (EC 1.13.11.36) is an enzyme that catalyzes the chemical reaction
+
+5-amino-4-chloro-2-(2,3-dihydroxyphenyl)-3(2H)-pyridazinone + O2 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   5-amino-4-chloro-2-(2-hydroxymuconoyl)-3(2H)-pyridazinoneThus, the two substrates of this enzyme are 5-amino-4-chloro-2-(2,3-dihydroxyphenyl)-3(2H)-pyridazinone and oxygen, whereas its product is 5-amino-4-chloro-2-(2-hydroxymuconoyl)-3(2H)-pyridazinone.
+
+This enzyme belongs to the family of oxidoreductases, specifically those acting on single donors with O2 as oxidant and incorporation of two atoms of oxygen into the substrate (oxygenases). The oxygen incorporated need not be derived from O2.  The systematic name of this enzyme class is 5-amino-4-chloro-2-(2,3-dihydroxyphenyl)-3(2H)-pyridazinone 1,2-oxidoreductase (decyclizing). It employs one cofactor, iron.";https://de.wikipedia.org/wiki/Chloridazon
+Chlortoluron (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Desethylatrazin (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Desethylterbuthylazin (TEG);mg/l;0.0001;3e-05;Tegel (TEG);;
+Desisopropylatrazin (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Diuron (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Ethofumesat (TEG);mg/l;0.0001;4e-05;Tegel (TEG);;
+Isoproturon (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Metamitron (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Metazachlor (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Methyldesphenylchloridazon (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Metolachlor (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Metribuzin (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Simazin (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Terbuthylazin (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Mecoprop (TEG);mg/l;0.0001;2e-05;Tegel (TEG);;
+MCPA (TEG);mg/l;0.0001;2e-05;Tegel (TEG);;
+Dichlorprop (TEG);mg/l;0.0001;2e-05;Tegel (TEG);;
+2,4-D (TEG);mg/l;0.0001;2e-05;Tegel (TEG);;
+p,p-DDA (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+o,p-DDA (TEG);mg/l;0.0001;2.5e-05;Tegel (TEG);;
+Bentazon (TEG);mg/l;0.0001;2e-05;Tegel (TEG);;
+Glyphosat (TEG);mg/l;0.0001;2e-05;Tegel (TEG);;
+Quecksilber (TEG);mg/l;0.001;0.0001;Tegel (TEG);"Mercury is a chemical element with symbol Hg and atomic number 80. It is commonly known as quicksilver and was formerly named hydrargyrum ( hy-DRAR-jər-əm). A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure; the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature.
+Mercury occurs in deposits throughout the world mostly as cinnabar (mercuric sulfide). The red pigment vermilion is obtained by grinding natural cinnabar or synthetic mercuric sulfide.
+Mercury is used in thermometers, barometers, manometers, sphygmomanometers, float valves, mercury switches, mercury relays, fluorescent lamps and other devices, though concerns about the element's toxicity have led to mercury thermometers and sphygmomanometers being largely phased out in clinical environments in favor of alternatives such as alcohol- or galinstan-filled glass thermometers and thermistor- or infrared-based electronic instruments.  Likewise, mechanical pressure gauges and electronic strain gauge sensors have replaced mercury sphygmomanometers.
+Mercury remains in use in scientific research applications and in amalgam for dental restoration in some locales. It is also used in fluorescent lighting. Electricity passed through mercury vapor in a fluorescent lamp produces short-wave ultraviolet light, which then causes the phosphor in the tube to fluoresce, making visible light.
+Mercury poisoning can result from exposure to water-soluble forms of mercury (such as mercuric chloride or methylmercury), by inhalation of mercury vapor, or by ingesting any form of mercury.";https://en.wikipedia.org/wiki/Mercury_(element)
+Selen (TEG);mg/l;0.01;0.001;Tegel (TEG);;
+Uran (TEG);mg/l;0.01;0.00044;Tegel (TEG);;
+Antimon (TEG);mg/l;0.005;0.0005;Tegel (TEG);;
+Arsen (TEG);mg/l;0.01;0.0019;Tegel (TEG);"Arsenic is a chemical element with symbol As and atomic number 33. Arsenic occurs in many minerals, usually in combination with sulfur and metals, but also as a pure elemental crystal. Arsenic is a metalloid. It has various allotropes, but only the gray form, which has a metallic appearance, is important to industry.
+The primary use of arsenic is in alloys of lead (for example, in car batteries and ammunition). Arsenic is a common n-type dopant in semiconductor electronic devices, and the optoelectronic compound gallium arsenide is the second most commonly used semiconductor after doped silicon. Arsenic and its compounds, especially the trioxide, are used in the production of pesticides, treated wood products, herbicides, and insecticides. These applications are declining due to the toxicity of arsenic and its compounds.A few species of bacteria are able to use arsenic compounds as respiratory metabolites. Trace quantities of arsenic are an essential dietary element in rats, hamsters, goats, chickens, and presumably other species. A role in human metabolism is not known. However, arsenic poisoning occurs in multicellular life if quantities are larger than needed. Arsenic contamination of groundwater is a problem that affects millions of people across the world.
+The United States' Environmental Protection Agency states that all forms of arsenic are a serious risk to human health. The United States' Agency for Toxic Substances and Disease Registry ranked arsenic as number 1 in its 2001 Priority List of Hazardous Substances at Superfund sites. Arsenic is classified as a Group-A carcinogen.";https://en.wikipedia.org/wiki/Arsenic
+Benzo[a]pyren (TEG);mg/l;1e-05;5e-06;Tegel (TEG);Benzo[a]pyrene is a polycyclic aromatic hydrocarbon and the result of incomplete combustion of organic matter at temperatures between 300 °C (572 °F) and 600 °C (1,112 °F). The ubiquitous compound can be found in coal tar, tobacco smoke and many foods, especially grilled meats. The substance with the formula C20H12 is one of the benzopyrenes, formed by a benzene ring fused to pyrene. Its diol epoxide metabolites (more commonly known as BPDE) react and bind to DNA, resulting in mutations and eventually cancer. It is listed as a Group 1 carcinogen by the IARC.  In the 18th century a scrotal cancer of chimney sweepers, the chimney sweeps' carcinoma, was already known to be connected to soot.;https://en.wikipedia.org/wiki/Benzo(a)pyrene
+Blei (TEG);mg/l;0.01;0.0005;Tegel (TEG);"Lead is a chemical element with symbol Pb (from the Latin plumbum) and atomic number 82. It is a heavy metal that is denser than most common materials. Lead is soft and malleable, and also has a relatively low melting point. When freshly cut, lead is silvery with a hint of blue; it tarnishes to a dull gray color when exposed to air. Lead has the highest atomic number of any stable element and three of its isotopes each conclude a major decay chain of heavier elements.
+Lead is a relatively unreactive post-transition metal. Its weak metallic character is illustrated by its amphoteric nature; lead and lead oxides react with acids and bases, and it tends to form covalent bonds. Compounds of lead are usually found in the +2 oxidation state rather than the +4 state common with lighter members of the carbon group. Exceptions are mostly limited to organolead compounds. Like the lighter members of the group, lead tends to bond with itself; it can form chains, rings, and polyhedral structures.
+Lead is easily extracted from its ores; prehistoric people in Western Asia knew of it. Galena, a principal ore of lead, often bears silver, interest in which helped initiate widespread extraction and use of lead in ancient Rome. Lead production declined after the fall of Rome and did not reach comparable levels until the Industrial Revolution. In 2014, the annual global production of lead was about ten million tonnes, over half of which was from recycling. Lead's high density, low melting point, ductility and relative inertness to oxidation make it useful. These properties, combined with its relative abundance and low cost, resulted in its extensive use in construction, plumbing, batteries, bullets and shot, weights, solders, pewters, fusible alloys, white paints, leaded gasoline, and radiation shielding.
+In the late 19th century, lead's toxicity was recognized, and its use has since been phased out of many applications. Lead is a toxin that accumulates in soft tissues and bones, it acts as a neurotoxin damaging the nervous system and interfering with the function of biological enzymes. It is particularly problematic in children: even if blood levels are promptly normalized with treatment, neurological disorders, such as brain damage and behavioral problems, may result.";https://en.wikipedia.org/wiki/Lead
+Cadmium (TEG);mg/l;0.003;0.0005;Tegel (TEG);;
+Kupfer (TEG);mg/l;2.0;0.005;Tegel (TEG);;
+Nickel (TEG);mg/l;0.02;0.003;Tegel (TEG);;
+Nitrit (TEG);mg/l;0.1;0.03;Tegel (TEG);;
+Trihalogenmethane (TEG);mg/l;0.01;0.0005;Tegel (TEG);;
+Vinylchlorid (TEG);mg/l;0.0005;0.0001;Tegel (TEG);;
+Aluminium (TEG);mg/l;0.2;0.01;Tegel (TEG);"Aluminium or aluminum is a chemical element with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic and ductile metal in the boron group. By mass, aluminium makes up about 8% of the  Earth's crust; it is the third most abundant element after oxygen and silicon and the most abundant metal in the crust, though it is less common in the mantle below. The chief ore of aluminium is bauxite. Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing environments. Instead, it is found combined in over 270 different minerals.Aluminium is remarkable for its low density and its ability to resist corrosion through the phenomenon of passivation. Aluminium and its alloys are vital to the aerospace industry and important in transportation and building industries, such as building facades and window frames. The oxides and sulfates are the most useful compounds of aluminium.Despite its prevalence in the environment, no known form of life uses aluminium salts metabolically, but aluminium is well tolerated by plants and animals. Because of these salts' abundance, the potential for a biological role for them is of continuing interest, and studies continue.";https://en.wikipedia.org/wiki/Aluminium
+Färbung (TEG);1/m;0.5;0.29;Tegel (TEG);;
+Natrium (TEG);mg/l;200.0;36.0;Tegel (TEG);;
+Sulfat (TEG);mg/l;250.0;103.0;Tegel (TEG);;
+freie Kohlensäure (TEG);mg/l;;11.4;Tegel (TEG);;
+Kieselsäure (SiO2) (TEG);mg/l;;13.0;Tegel (TEG);;
+SAK 254nm (TEG);mg/l;;10.1;Tegel (TEG);;
+1,1,1-Trichlorethan (TEG);µg/l;3.0;0.5;Tegel (TEG);;
+Toluen (TEG);µg/l;0.3;0.5;Tegel (TEG);;
+1,2,3-Trichlorbenzen (TEG);µg/l;0.1;0.1;Tegel (TEG);;
+1,2,4-Trichlorbenzen (TEG);µg/l;0.1;0.1;Tegel (TEG);;
+1,3,5-Trichlorbenzen (TEG);µg/l;0.1;0.1;Tegel (TEG);;
+1,2,3,5-Tetrachlorbenzen (TEG);µg/l;0.1;0.01;Tegel (TEG);;
+1,2,3,4-Tetrachlorbenzen (TEG);µg/l;0.1;0.01;Tegel (TEG);;
+Pentachlorbenzen (TEG);µg/l;0.1;0.01;Tegel (TEG);;
+Hexachlorbenzen (TEG);µg/l;0.1;0.01;Tegel (TEG);;
+Pentachloranisol (TEG);µg/l;0.1;0.01;Tegel (TEG);;
+EDTA (TEG);µg/l;10.0;5.1;Tegel (TEG);;
+Benzotriazol (TEG);µg/l;3.0;0.28;Tegel (TEG);;
+Tolyltriazole (TEG);µg/l;3.0;0.1;Tegel (TEG);;
+Ammonium (TEG);mg/l;0.5;0.05;Tegel (TEG);;
+Eisen (TEG);mg/l;0.2;0.03;Tegel (TEG);;
+Mangan (TEG);mg/l;0.05;0.005;Tegel (TEG);;
+Trübung (TEG);NTU;1.0;0.2;Tegel (TEG);;
+Tris-(chlorisopropyl)phosphat (TEG);µg/l;1.0;0.1;Tegel (TEG);;
+MTBE (TEG);µg/l;1.0;0.06;Tegel (TEG);;
+PFOA (TEG);µg/l;0.3;0.01;Tegel (TEG);;
+PFOS (TEG);µg/l;0.3;0.05;Tegel (TEG);;
+Atenolol (TEG);µg/l;0.1;0.03;Tegel (TEG);;
+Diclofenac (TEG);µg/l;0.3;0.025;Tegel (TEG);;
+Phenazon* (TEG);µg/l;0.3;0.08;Tegel (TEG);;
+Propyphenazon* (TEG);µg/l;0.3;0.02;Tegel (TEG);;
+Carbamazepin (TEG);µg/l;0.3;0.14;Tegel (TEG);;
+AMDOPH (TEG);µg/l;3.0;0.5;Tegel (TEG);;
+AMPH (TEG);µg/l;3.0;0.11;Tegel (TEG);;
+DP (TEG);µg/l;3.0;0.12;Tegel (TEG);;
+Primidon (TEG);µg/l;3.0;0.05;Tegel (TEG);;
+Phenobarbital (TEG);µg/l;0.3;0.03;Tegel (TEG);;
+Sulfamethoxazol (TEG);µg/l;0.1;0.02;Tegel (TEG);;
+Metformin (TEG);µg/l;1.0;0.02;Tegel (TEG);;
+Gabapentin (TEG);µg/l;1.0;0.4;Tegel (TEG);;
+Valsartansäure (TEG);µg/l;1.5;0.78;Tegel (TEG);;
+Valsartan (TEG);µg/l;0.3;0.03;Tegel (TEG);;
+Iopamidol (TEG);µg/l;1.0;0.27;Tegel (TEG);;
+Iomeprol (TEG);µg/l;1.0;0.02;Tegel (TEG);;
+Iopromid (TEG);µg/l;1.0;0.02;Tegel (TEG);;
+Amidotrizoesäure (TEG);µg/l;1.0;0.02;Tegel (TEG);;
+AMPA (TEG);mg/l;;0.0001;Tegel (TEG);;
+Tetrachlorethen (TEG);mg/l;;0.0001;Tegel (TEG);;
+Trichlorethen (TEG);mg/l;;0.0001;Tegel (TEG);;
+Benzo[b]fluoranthen (TEG);mg/l;;1e-05;Tegel (TEG);;
+Benzo[k]fluoranthen (TEG);mg/l;;1e-05;Tegel (TEG);;
+Benzo[g,h,i]perylen (TEG);mg/l;;1e-05;Tegel (TEG);;
+Indeno[1,2,3-c,d]pyren (TEG);mg/l;;1e-05;Tegel (TEG);;
+Trichlormethan (TEG);mg/l;;0.0005;Tegel (TEG);;
+Bromdichlormethan (TEG);mg/l;;0.0005;Tegel (TEG);;
+Dibromchlormethan (TEG);mg/l;;0.0005;Tegel (TEG);;
+Tribrommethan (TEG);mg/l;;0.0005;Tegel (TEG);;
+TOC (TEG);mg/l;;4.6;Tegel (TEG);;
+Temperatur (TEG);°C;;12.7;Tegel (TEG);;
+Sauerstoff (TEG);mg/l;;8.4;Tegel (TEG);;
+Sättigungs-pH (TEG);-;;7.4;Tegel (TEG);;
+Karbonathärte (TEG);°dH;;10.0;Tegel (TEG);;
+Gesamthärte (TEG);°dH;;14.9;Tegel (TEG);;
+Calcium (TEG);mg/l;;91.0;Tegel (TEG);;
+Magnesium (TEG);mg/l;;9.1;Tegel (TEG);;
+Kalium (TEG);mg/l;;7.5;Tegel (TEG);;
+AOX (TEG);µg/l;;10.0;Tegel (TEG);;
+Zink (TEG);µg/l;;10.0;Tegel (TEG);;
+Dichlormethan (TEG);µg/l;;0.5;Tegel (TEG);;
+Tetrachlormethan (TEG);µg/l;;0.5;Tegel (TEG);;
+trans-Dichlorethen (TEG);µg/l;;0.5;Tegel (TEG);;
+cis-Dichlorethen (TEG);µg/l;;0.1;Tegel (TEG);;
+Hexachlorbutadien (TEG);µg/l;;0.01;Tegel (TEG);;
+1,2-Dichlorpropan (TEG);µg/l;;0.1;Tegel (TEG);;
+Ethylbenzen (TEG);µg/l;;0.5;Tegel (TEG);;
+m,p-Xylen (TEG);µg/l;;0.5;Tegel (TEG);;
+o-Xylen (TEG);µg/l;;0.5;Tegel (TEG);;
+Cumen (TEG);µg/l;;0.5;Tegel (TEG);;
+Chlorbenzen (TEG);µg/l;;0.1;Tegel (TEG);;
+1,3-Dichlorbenzen (TEG);µg/l;;0.5;Tegel (TEG);;
+1,4-Dichlorbenzen (TEG);µg/l;;0.5;Tegel (TEG);;
+1,2-Dichlorbenzen (TEG);µg/l;;0.5;Tegel (TEG);;
+NTA (TEG);µg/l;;2.0;Tegel (TEG);;
+Phenylsulfonylsarcosin (TEG);µg/l;;0.02;Tegel (TEG);;
+Tributylphosphat (TEG);µg/l;;0.1;Tegel (TEG);;
+Triphenylphosphat (TEG);µg/l;;0.1;Tegel (TEG);;
+Tris-(2-chlorethyl)phosphat (TEG);µg/l;;0.1;Tegel (TEG);;
+ETBE (TEG);µg/l;;0.03;Tegel (TEG);;
+TBA (TEG);µg/l;;1.0;Tegel (TEG);;
+Clofibrinsäure (TEG);µg/l;;0.025;Tegel (TEG);;
+Bezafibrat (TEG);µg/l;;0.01;Tegel (TEG);;
+Carbamazepin-10,11-diol (TEG);µg/l;;0.13;Tegel (TEG);;
+Acridin-9-carbonsäure (TEG);µg/l;;0.1;Tegel (TEG);;
+Dimethylaminophenazon (TEG);µg/l;;0.02;Tegel (TEG);;
+AAA (TEG);µg/l;;0.02;Tegel (TEG);;
+N-Acetyl-sulfamethoxazol (TEG);µg/l;;0.02;Tegel (TEG);;
+FAA (TEG);µg/l;;0.03;Tegel (TEG);;
+Koffein (TEG);µg/l;;0.1;Tegel (TEG);;
+Metoprolol (TEG);µg/l;;0.025;Tegel (TEG);;
+Phenylethylmalonamid (TEG);µg/l;;0.04;Tegel (TEG);;
+Pregabalin (TEG);µg/l;;0.01;Tegel (TEG);;
+Oxipurinol (TEG);µg/l;;0.43;Tegel (TEG);;
+Candesartan (TEG);µg/l;;0.1;Tegel (TEG);;
+Olmesartan (TEG);µg/l;;0.1;Tegel (TEG);;
+Irbesartan (TEG);µg/l;;0.02;Tegel (TEG);;
+Losartan (TEG);µg/l;;0.03;Tegel (TEG);;
+DEET (TEG);µg/l;;0.03;Tegel (TEG);;
+ph-wert (TEG);-;8.5;7.5;Tegel (TEG);;
+Chlorid (TEG);mg/l;250.0;49.0;Tegel (TEG);"The chloride ion  is the anion (negatively charged ion) Cl−. It is formed when the element chlorine (a halogen) gains an electron or when a compound such as hydrogen chloride is dissolved in water or other polar solvents. Chloride salts such as sodium chloride are often very soluble in water. It is an essential electrolyte located in all body fluids responsible for maintaining acid/base balance, transmitting nerve impulses and regulating fluid in and out of cells. Less frequently, the word chloride may also form part of the ""common"" name of chemical compounds in which one or more chlorine atoms are covalently bonded.  For example, methyl chloride, with the standard name chloromethane (see IUPAC books) is an organic compound with a covalent C−Cl bond in which the chlorine is not an anion.";https://en.wikipedia.org/wiki/Chloride
